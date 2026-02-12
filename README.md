@@ -27,3 +27,21 @@ npm run dev
 cd client
 npm install
 npm run dev
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/dashboard.png)
+
+### 🎬 Movie Details
+![Movie Details](./screenshots/movie-details.png)
+
+### 🎟 Booking
+![Booking](./screenshots/seatbooking.png)
+
+### 🎟 Login Page
+![Booking](./screenshots/loginpage.png)
+
+### 🎟 Payment Page
+![Booking](./screenshots/paymentpage.png)
+
